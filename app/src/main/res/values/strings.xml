@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts Assignment</string>
+
+    <string name="contact_name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save_contact">Save contact</string>
+    <string name="errorName">Please enter Name</string>
+    <string name="errorPhoneNumber">Please enter Phone number</string>
+    <string name="invalidPhoneNumber">Invalid Phone number</string>
+    <string name="activityContactList">Contacts</string>
+    <string name="activityAddContact">Add Contact</string>
+</resources>
